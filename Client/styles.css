@@ -19,6 +19,7 @@ h1 {
     font-size: 28px;
 }
 
+
 .main {
     max-width: 800px;
     margin: 0 auto;
@@ -47,5 +48,5 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-    background-color: #ddd;
+    background-color: black;
 }
